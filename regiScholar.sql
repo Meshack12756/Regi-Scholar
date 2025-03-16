@@ -249,6 +249,7 @@ VALUES
 ('Isabella Ndungu', 3),
 ('Joseph Mwiti', 4),
 ('Keziah Njau', 1);
+('Lionel Nteebe', 3);
 
 INSERT INTO Instructors (name, department, office_room, phone_extension, email)
 VALUES
